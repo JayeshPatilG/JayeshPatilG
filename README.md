@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
+- 🔭 I'm currently working on **Email Spam Detection**
+- 🌱 I'm currently learning **Data Science, Web Development**
 - 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **Python, JavaScript, Web Development**
+- 💬 Ask me about **Python, Web Development**
 - 📫 How to reach me: **patiljayesh952@gmail.com**
 - ⚡ Fun fact: **🔄 My learning motto: Fail fast, learn faster**
 
@@ -37,15 +37,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JayeshPatilG&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshPatilG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshPatilG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -53,17 +53,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JayeshPatilG&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
 
 ## 📌 Pinned Projects
 
-### [Project Name 1](link-to-repo)
+### [Email Spam Detection](link-to-repo)
 Brief description of what this project does and technologies used.
 
-### [Project Name 2](link-to-repo)
+### [Movie Recommendation System](link-to-repo)
 Brief description of what this project does and technologies used.
 
 ---
@@ -71,13 +71,11 @@ Brief description of what this project does and technologies used.
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/jayesh-patil-ba3019233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  
+  <a href="mailto:patiljayesh952@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
